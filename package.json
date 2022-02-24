@@ -4,8 +4,8 @@
   "description": "Hooks for virtualizing scrollable elements in React",
   "author": "tannerlinsley",
   "license": "MIT",
-  "repository": "tannerlinsley/react-virtual",
-  "homepage": "https://github.com/tannerlinsley/react-virtual#readme",
+  "repository": "dantman/react-virtual",
+  "homepage": "https://github.com/dantman/react-virtual#readme",
   "support": {
     "backing": "npm-funding"
   },
